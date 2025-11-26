@@ -2,8 +2,6 @@
 
 [![CSBJian](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/CSBJian)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
 He is currently pursuing the Ph.D. degree in Computer Science and Technology with the School of Computer Science and Engineering, Nanjing University of Science and Technology (NJUST), Nanjing, China. His current research interests include Machine Learning, Computer Vision and Contrastive Learning, including 3-D point cloud analysis, 3-D point cloud segmentation, and 3-D point cloud generation.
 
 #### Contact
