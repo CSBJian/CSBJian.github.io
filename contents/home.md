@@ -9,8 +9,8 @@ He is currently pursuing the Ph.D. degree in Computer Science and Technology wit
 Email: jianbi[at]njust.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, Nanjing University of Science and Technology, 2022—2026.\
-B.E., Data Science and Big Data Technology, Guangxi University for Nationalities, 2019—2022.
+Ph.D. Student, Computer Science and Technology, Nanjing University of Science and Technology, 2022—2026.\
+M.S., Data Science and Big Data Technology, Guangxi University for Nationalities, 2019—2022.
 
 #### Research Interests
 Machine Learning, Computer Vision and Contrastive Learning.
