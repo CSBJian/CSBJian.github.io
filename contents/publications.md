@@ -1,7 +1,5 @@
 #### Submitted
 
-- <strong>J. Bi</strong>, Q. Wu, J. Qian, L. Luo, and J. Yang. Leaning Geometrical Diffusion Network via Power Spherical Distribution for Point Clouds Generation. <strong>Under Review</strong>[[Paper]]()
-
 - <strong>J. Bi</strong>, Q. Wu, J. Qian, L. Luo, and J. Yang. Hierarchical Implicit Subclass Steered Debiased Contrastive Learning for Point Cloud Classification. <strong>Under Review</strong>[[Paper]]()
 
 - <strong>J. Bi</strong>, Q. Wu, H. Yang, J. Qian, S. Chen, L. Luo, and J. Yang. Semantic Hierarchy Modeling for Universal Visual Recognition. <strong>Under Review</strong>[[Paper]]()
@@ -15,4 +13,6 @@
 - <strong>J. Bi</strong>, Q. Wu, J. Qian, L. Luo, and J. Yang* (2025). Structure-Aware Spherical Density Steered Cross-Domain Learning for Effective Point Cloud Understanding. <strong>Pattern Recognition</strong>. [[Paper]](https://doi.org/10.1016/j.patcog.2025.112527)
 
 - <strong>J. Bi</strong>, Q. Wu, J. Qian, L. Luo*, and J. Yang* (2026). Shaping Without Tearing: Controllable Diffeomorphic Deformations for Topology-Preserving 3D Point Cloud Augmentation. <strong>Proceedings of the AAAI Conference on Artificial Intelligence</strong>. [[Paper]]()
+
+- <strong>J. Bi</strong>, Q. Wu, J. Qian, L. Luo, and J. Yang*. Leaning Geometrical Diffusion Network via Power Spherical Distribution for Point Clouds Generation. <strong>Pattern Recognition</strong>[[Paper]]()
 
